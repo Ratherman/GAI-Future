@@ -1,5 +1,8 @@
 # GAI-Future
 
+# Credit balance log
+* 2023/09/24 - 9.99
+
 ## LangChain for LLM Application Development
 ### Lecture 1: Models, Prompts and parsers
 * Video Link: https://learn.deeplearning.ai/langchain/lesson/2/models,-prompts-and-parsers
